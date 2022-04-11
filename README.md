@@ -3,13 +3,13 @@
 
 
 ##  Login-Form
- Meu primeiro login. \o/ 
-Espero que vocês gostem!
+My first form. \o/ 
+Hope you like it!
 
 
 ## Technology 
 
-As linguagem que foram usadas nesse projeto:
+The languages that were used in this project:
 
 * HTML
 * CSS
@@ -20,7 +20,7 @@ As linguagem que foram usadas nesse projeto:
 * Github
 
 
-## Olha como ficou:
+## See how beautiful it turned out:
 
 
 ![Homepage image](https://github.com/nataliakdiniz/camp-in/blob/main/images/login-form.png)
@@ -29,4 +29,4 @@ As linguagem que foram usadas nesse projeto:
 
   * **Natália Kesia Rodrigues Diniz** 
 
-  Obrigada por me visitar e vamos codar!
+ Thanks for visiting and let's code!
